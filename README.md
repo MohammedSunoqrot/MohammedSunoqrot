@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on developing computer-aided diagnosis and detection system.
+- 📫 How to reach me: mohammed.sunoqrot@ntnu.no 
 <!--
 **MohammedSunoqrot/MohammedSunoqrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
