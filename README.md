@@ -11,7 +11,8 @@ I'm constantly seeking chances to work together and gain insights from others, s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSunoqrot&layout=compact&theme=radical)](https://github.com/MohammedSunoqrot/github-readme-stats)
 
 - 🔭 I’m currently working on developing computer-aided diagnosis and detection system.
-- 📫 How to reach me: mohammed.sunoqrot@ntnu.no 
+- 📫 How to reach me: mohammed.sunoqrot@ntnu.no
+- 🌐 https://www.ntnu.edu/employees/mohammed.sunoqrot
 <!--
 **MohammedSunoqrot/MohammedSunoqrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
