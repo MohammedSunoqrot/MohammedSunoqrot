@@ -12,7 +12,7 @@ I'm constantly seeking chances to work together and gain insights from others, s
 
 - 🔭 I’m currently working on developing computer-aided diagnosis and detection system.
 - 📫 How to reach me: mohammed.sunoqrot@ntnu.no
-- 🌐 https://www.ntnu.edu/employees/mohammed.sunoqrot
+- 🌐 https://mohammedsunoqrot.github.io
 <!--
 **MohammedSunoqrot/MohammedSunoqrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
