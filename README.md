@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-I am a product manager , researcher and Data scientist with a PhD in medical technology.
-I have a significant experience in developing machine & deep learning systems, data analysis & management,
-image analysis & processing, innovation management, and navigating regulations for AI based medical devices & software.
+I am an AI product and innovation leader with a PhD in Medical Technology.
+My work connects the questions a product needs to answer with the research, engineering, and people needed to deliver it.
 
-I'm constantly seeking chances to work together and gain insights from others, so don't hesitate to get in touch!
+I am constantly seeking chances to work together and gain insights from others, so don't hesitate to get in touch!
 <!--
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedSunoqrot&show_icons=true&theme=radical)](https://github.com/MohammedSunoqrot/github-readme-stats)
 -->
 
-- 🔭 I’m currently working on developing computer-aided diagnosis and detection system.
+- 🔭 I am currently working on developing GenAI products.
 - 📫 How to reach me: mohammed.sunoqrot@gmail.com
-- 🌐 https://mohammedsunoqrot.github.io
+- 🌐 https://sunoqrot.com
 <!--
 **MohammedSunoqrot/MohammedSunoqrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
