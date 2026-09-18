@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am an AI product and innovation leader with a PhD in Medical Technology.
+
 My work connects the questions a product needs to answer with the research, engineering, and people needed to deliver it.
 
 I am constantly seeking chances to work together and gain insights from others, so don't hesitate to get in touch!
